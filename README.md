@@ -1,4 +1,4 @@
-# helloworldc-
+# helloworldc++
 begin command instruccion
 
 ```c++
@@ -26,5 +26,5 @@ int main()
 
 Verify in Visual Studio - Tools- Option - Debbugging and enabled the option automatic close the shell.
 
-#References
+# References
 https://docs.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=vs-2019
